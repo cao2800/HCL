@@ -3,7 +3,6 @@ package com.assignment3;
 public class WashingMachine {
 	
 	public static void main(String[] args) {
-		
 		switchON();
 		
 		int numOfClothes = 50;
